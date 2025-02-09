@@ -7,6 +7,7 @@
 - 🎾 Tennis player
 
 **🤩 Interests:**
-- Data science, ML 🤖, and Python 🐍
+- 🤖 Data science, ML, and Python 🐍
 - Computational biology
-- Mathematical applications and modeling 🙃
+- Mathematical applications and modeling
+- 📖 Learning!!! 📚
