@@ -1,5 +1,3 @@
-## Aarnav G 👋
-
 **Who am I?**
 - 👨‍🎓 High school student
 - 🖥 Math and coding enthusiast
