@@ -31,9 +31,8 @@ I enjoy building projects that combine programming, quantitative thinking, and p
 <br>
 
 <p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aarnavg54&theme=github-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
 </p>
-
 ---
 
 ### Connect with me at: 📩
