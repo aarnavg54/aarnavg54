@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Aarnav — a student and developer interested in using computation to better understand real-world problems.
+I'm Aarnav, a student, developer, and researcher interested in using computation to better understand real-world problems.
 
 My interests include:
 - 📊 Data science, machine learning, and Python
