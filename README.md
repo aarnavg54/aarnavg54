@@ -25,6 +25,8 @@ I enjoy building projects that combine programming, quantitative thinking, and p
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
 </p>
 
@@ -42,6 +44,10 @@ I enjoy building projects that combine programming, quantitative thinking, and p
 
 <a href="mailto:aarnavg54@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://scholar.google.com/citations?user=kPk26LAAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
 </a>
 
 
