@@ -31,7 +31,7 @@ I enjoy building projects that combine programming, quantitative thinking, and p
 <br>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnavg54&layout=compact&theme=radical"/>
 </p>
 ---
 
