@@ -31,7 +31,7 @@ I enjoy building projects that combine programming, quantitative thinking, and p
 <br>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnavg54&layout=compact&theme=radical"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aarnavg54&theme=github-dark"/>
 </p>
 
 ---
@@ -44,10 +44,6 @@ I enjoy building projects that combine programming, quantitative thinking, and p
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<!-- Optional (not recommended publicly)
-<a href="tel:+13128858556">
-<img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge">
-</a>
--->
+
 
 </p>
